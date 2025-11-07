@@ -1,0 +1,29 @@
+h1 {
+
+    justify-content: center;
+    display: flex;
+    color: rgb(219, 85, 126);
+    }
+
+
+ul {
+    color: blue;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+    
+    }
+    
+    ul li {
+      list-style: none;
+      padding: 8px 12px;
+    }
+    
+    ul li a:hover {
+      color: brown;
+      border-bottom: 2px solid brown;
+      padding: 8px 12px;
+      border-radius: 10px;
+      
+    }
